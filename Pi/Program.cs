@@ -60,7 +60,7 @@ namespace Pi
             {
                 Point p = GeneratePoint();
                 points.Add(p);
-            }
+            } 
 
             double pi = CalcPi(points);
             DateTime t2 = DateTime.Now;
