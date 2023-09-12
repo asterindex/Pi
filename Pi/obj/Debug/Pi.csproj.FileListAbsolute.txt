@@ -1,0 +1,6 @@
+/Users/anatolykot/RiderProjects/Pi/Pi/obj/Debug/Pi.csproj.AssemblyReference.cache
+/Users/anatolykot/RiderProjects/Pi/Pi/obj/Debug/Pi.csproj.CoreCompileInputs.cache
+/Users/anatolykot/RiderProjects/Pi/Pi/bin/Debug/Pi.exe
+/Users/anatolykot/RiderProjects/Pi/Pi/bin/Debug/Pi.pdb
+/Users/anatolykot/RiderProjects/Pi/Pi/obj/Debug/Pi.exe
+/Users/anatolykot/RiderProjects/Pi/Pi/obj/Debug/Pi.pdb
